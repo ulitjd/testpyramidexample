@@ -1,7 +1,6 @@
 
 /.idea/
 /rxdemo-server.iml
-/target/
 /Dockerfile
 /deployment/
 out/
